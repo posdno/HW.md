@@ -1,6 +1,6 @@
 # HW.md
 Домашнее задание
 
-### Как сделать pull request
+### Как сделать pull requestg
 
 Новые изменения на GitHub 2
